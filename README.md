@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @UttamKrDEV17
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning c-programming
+- 🌱 I’m currently learning kubernates
 - 💞️ I’m looking to collaborate on none
 - 📫 How to reach me Uttamkr244@gmail.com
 
